@@ -1,4 +1,4 @@
 FROM devopsedu/webapp
-COPY /projCert/. /usr/local/app
+COPY . /usr/local/app
 EXPOSE 80:
 
